@@ -1,5 +1,5 @@
-# MVGS
-Data and R-script for MVGS
+#mrMLM_GWAS
+Data and R-script for mrMLM_GWAS
 Filename**: `genotypic_data.txt`
 
 ## Data Format
